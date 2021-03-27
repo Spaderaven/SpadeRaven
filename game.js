@@ -44,10 +44,9 @@ const appearTime = 600;
 
 function preload () {
     console.log("Preload");
-    this.load.image('backroung', 'assets/Backround.png');
+    this.load.image('backroung', 'assets/backround.png');
     this.load.image('man', 'assets/SteamMan.png');
-    this.load.image('barrel', 'assets/FishBarrel4.png');
-
+    this.load.image('barrel', 'assets/Fishbarrel4.png');
 }
 
 
